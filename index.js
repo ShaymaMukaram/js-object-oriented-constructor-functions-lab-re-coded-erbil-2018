@@ -1,1 +1,6 @@
-let samson = new Scooter(2015, "red", "swoosh");
+function
+
+
+
+
+ samson = new Scooter(2015, "red", "swoosh");
