@@ -1,5 +1,7 @@
 function Scooter(year,color,model){
-  console.lo();
+  console.log(year);
+  console.log(color);
+  console.log(model);
 }
 
 
