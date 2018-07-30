@@ -7,3 +7,12 @@ function Scooter(year,color,model){
 
 
 let  samson = new Scooter(2015, "red", "swoosh");
+function Scooter(year,color,model){
+  this.year=year;
+  this.color=color;
+  this.model=model;
+}
+
+
+
+
