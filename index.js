@@ -1,5 +1,5 @@
-function
-
+function Scooter(year,color,model){
+}
 
 
 
