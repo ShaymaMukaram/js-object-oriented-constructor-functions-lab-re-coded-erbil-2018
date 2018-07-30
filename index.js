@@ -14,5 +14,9 @@ function Driver(name,age,experience){
 }
 
 let allison = new Driver("Allison", "16 years", "2 years");
-
-
+function PickupLocation(address,city){
+  this.address=address;
+  this.city=city;
+  
+}
+let poshHotel = new PickupLocation("123 Broadway", "New York City");
